@@ -1,5 +1,6 @@
-birth_year = int(input("enter the birth_year:"))
-if(birth_year >= 1981 and birth_year <= 1996):
-    print(" millennial")
+a=int(input("enter your year of birth:"))
+if(a>=1981)&(a<=1996):
+    print("you are millenial")
 else:
-    print("it is not a millenial")
+    print("you are not millenial")    
+
