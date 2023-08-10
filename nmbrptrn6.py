@@ -15,3 +15,42 @@ for i in range(limit,1):
           print(num,end='')
           num+=1
      print()
+
+
+     # ASCII VALUES:
+# A = 65
+# Z = 90 
+
+# chr()
+
+# for i in range(65,91):
+#      print(chr(i)) 
+
+# A 
+# A B 
+# A B C 
+# A B C D 
+
+
+# A A A A 
+# B B B B 
+# C C C C 
+# D D D D 
+
+
+# A 
+# B B 
+# C C C 
+# D D D D 
+
+# while 
+
+# initialization 
+# while + condition 
+# statements 
+# updation 
+
+# i = 1 
+# while i <=10:
+#     print(i)
+#     i+=1 
