@@ -45,29 +45,28 @@
 #    n+=1
 
 #average
-
-# listAvg = []
-# a=list(1,2,3,4,5)
-# i=0
+n=[1,2,3,67,98,4]
+# 2<3 
+i = 0
 sum=0
-# while i>0:
-n=sum/avg 
-  
-#     t=t+listAvg[i]
-# i=i+1
-    
+while(i<len(n)):
+        sum+=n[i]
+        i=i+1
+avg = sum//3
+for i in n:
+   if i>avg:
+      print(i)
+
+
+# a="python"
+# i=0
+# while i<len(a):
+#     print(a[i])
+#     i+=1
 
 
 
 
-
-
-
-a="python"
-i=0
-while i<len(a):
-    print(a[i])
-    i+=1
 
 
 
