@@ -44,25 +44,45 @@
 #      print(n,end=" ")   
 #    n+=1
 
-#average
-n=[1,2,3,67,98,4]
-# 2<3 
-i = 0
-sum=0
-while(i<len(n)):
-        sum+=n[i]
-        i=i+1
-avg = sum//3
-for i in n:
-   if i>avg:
-      print(i)
+# #average
+# n=[1,2,3,67,98,4]
+# # 2<3 
+# i = 0
+# sum=0
+# while(i<len(n)):
+#         sum+=n[i]
+#         i=i+1
+# avg = sum//3
+# for i in n:
+#    if i>avg:
+#       print(i)
 
+
+
+#substring
 
 # a="python"
 # i=0
 # while i<len(a):
 #     print(a[i])
 #     i+=1
+
+
+
+#secndlagrgest
+
+
+
+# list=[10,99,100]
+# if len(n) :
+#  largest=[]
+#  i=0
+# while i < len(n):
+#    if n[i] > largest:
+    
+
+
+
 
 
 
