@@ -29,13 +29,14 @@ for i in a:
     position += 1
 print("list is:",position)
 
-k=[]
-n=int(input("Enter the number:"))
-k.append(n)
-a=int(input("Enter the number:"))
-k.append(a)
-b=int(input("Enter the number:"))
-k.append(b)
-c=int(input("Enter the number:"))
-k.append(c)
-print(k)
+
+# k=[]
+# n=int(input("Enter the number:"))
+# k.append(n)
+# a=int(input("Enter the number:"))
+# k.append(a)
+# b=int(input("Enter the number:"))
+# k.append(b)
+# c=int(input("Enter the number:"))
+# k.append(c)
+# print(k)
